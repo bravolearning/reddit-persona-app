@@ -1,0 +1,43 @@
+{
+  "full_name": "Rohan Sharma",
+  "age_group": "25-34",
+  "occupation": "Software Engineer/IT Professional",
+  "location": "Mumbai, India",
+  "tone_of_writing": "Casual, Enthusiastic, sometimes frustrated",
+  "dominant_emotions": [
+    "Excited",
+    "Frustrated"
+  ],
+  "personality_traits": {
+    "Introvert vs Extrovert": "Extrovert",
+    "Thinking vs Feeling": "Thinking",
+    "Judging vs Perceiving": "Judging",
+    "Intuition vs Sensing": "Sensing"
+  },
+  "motivations": [
+    "Finding the best tech deals",
+    "Troubleshooting technical issues",
+    "Optimizing gaming performance",
+    "Building high-performance PCs",
+    "Sharing technical knowledge"
+  ],
+  "goals": [
+    "To build and maintain a high-performance home network",
+    "To find solutions to technical problems efficiently",
+    "To stay updated on the latest technology trends",
+    "To have a smooth gaming experience"
+  ],
+  "frustrations": [
+    "Low-quality network hardware",
+    "Inconsistent performance of gaming systems and network devices",
+    "Lack of support from manufacturers",
+    "Unnecessary complexity in software/hardware",
+    "High prices of networking components",
+    "Dealing with bugs in software and hardware"
+  ],
+  "quotes": [
+    "MSI MAG B850M Mortar WIFI is G.O.A.T. !!!",
+    "WTF really? Is this some kinda mistake from MSI?",
+    "Buying a UXG would be the biggest blunder one could commit"
+  ]
+}

@@ -1,0 +1,42 @@
+```json
+{
+  "full_name": "Rohan Sharma",
+  "age_group": "30-39",
+  "occupation": "IT professional/Network Engineer",
+  "location": "Mumbai, India",
+  "tone_of_writing": "Technical, enthusiastic, occasionally frustrated",
+  "dominant_emotions": ["Curious", "Frustrated"],
+  "personality_traits": {
+    "Introvert vs Extrovert": "Extrovert",
+    "Thinking vs Feeling": "Thinking",
+    "Judging vs Perceiving": "Judging",
+    "Intuition vs Sensing": "Sensing"
+  },
+  "motivations": [
+    "Troubleshooting technical issues",
+    "Finding best value for money in tech products",
+    "Optimizing network performance",
+    "Sharing technical expertise and experiences",
+    "Keeping up with latest tech trends"
+  ],
+  "goals": [
+    "Solve technical problems efficiently",
+    "Build a high-performance PC and network",
+    "Stay informed about new technologies",
+    "Share knowledge with others"
+  ],
+  "frustrations": [
+    "Low-quality network equipment",
+    "Inconsistent performance of software/hardware",
+    "High prices for certain tech components",
+    "Lack of support for certain products",
+    "Dealing with buggy software"
+
+  ],
+  "quotes": [
+    "MSI MAG B850M Mortar WIFI is G.O.A.T. !!!",
+    "Is this some kinda mistake from MSI ?",
+    "Ubiquiti keystone jacks and thin Patch cords are of extreme low quality"
+  ]
+}
+```
